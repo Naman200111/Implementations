@@ -35,5 +35,3 @@ void largeFactorial(int n)
         cout << helper[i];
     cout << endl;
 }
-
-
