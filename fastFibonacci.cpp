@@ -4,8 +4,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-# define int      		long long int
-# define mod     		1000000007
+# define int  long long int
+# define mod  1000000007
 
 vector<vector<int>> matrixMultiplication(vector<vector<int>> A, vector<vector<int>> B)
 {
